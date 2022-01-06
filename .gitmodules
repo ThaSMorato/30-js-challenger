@@ -1,0 +1,9 @@
+[submodule "easy"]
+	path = easy
+	url = https://github.com/ThaSMorato/30-js-challenger-easy
+[submodule "medium"]
+	path = medium
+	url = https://github.com/ThaSMorato/30-js-challenger-medium
+[submodule "very-easy"]
+	path = very-easy
+	url = https://github.com/ThaSMorato/30-js-challenger-very-easy
