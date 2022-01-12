@@ -7,3 +7,6 @@
 [submodule "very-easy"]
 	path = very-easy
 	url = https://github.com/ThaSMorato/30-js-challenger-very-easy
+[submodule "hard"]
+	path = hard
+	url = https://github.com/ThaSMorato/30-js-challenger-hard
